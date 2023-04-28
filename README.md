@@ -29,15 +29,7 @@ npm install
 npm start
 ```
 
-In your terminal run the following:
-
-```shell
-git clone git@github.com:anthgrim/badbank-standalone.git
-cd badbank-standalone
-npm install
-node index.js
-```
-
+![homepage](https://user-images.githubusercontent.com/110649790/235016448-f1d02175-c3b5-4190-8f5e-d02e50e09b8f.png)
 
 ### Technologies and libraries used:
 
